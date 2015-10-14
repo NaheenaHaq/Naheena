@@ -12,7 +12,7 @@
         android:textSize="30sp"
         android:background="@color/red"
         android:layout_weight="1"
-        android:id="@+id/edu1"/>
+        android:id="@+id/edu1" />
     <Button
         android:text="@string/button"
         android:layout_width="match_parent"
